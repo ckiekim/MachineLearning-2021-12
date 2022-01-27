@@ -9,6 +9,7 @@ model/
 scores.pkl
 noun_scores.pkl
 OpinosisDataset1.0/
+movies/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
